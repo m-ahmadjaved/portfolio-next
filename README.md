@@ -32,7 +32,7 @@ https://github-contributions-api.jogruber.de/v4/m-ahmadjaved?y=last
 ![Skyline 3D](screenshots/skyline-3d.png)
 
 ### Full page
-[View full-page screenshot →](screenshots/full-page.png)
+![Full page](screenshots/full-page.jpg)
 
 ## Run locally
 
